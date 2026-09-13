@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://rpg-web-5ofb.onrender.com/api/:match*"
+    }
+  ]
+}
